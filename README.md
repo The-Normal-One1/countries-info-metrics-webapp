@@ -50,7 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://the-normal-one1.github.io/bookstore/)
+- [Live Demo Link](https://github.com/The-Normal-One1/countries-info-metrics-webapp)
 
 ## 🚀 Project Details
 
@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple example steps.
 -Reach to following Github URL:
 
 ```
-https://github.com/The-Normal-One1/bookstore
+https://github.com/The-Normal-One1/countries-info-metrics-webapp
 
 ```
 
@@ -115,7 +115,7 @@ Clone this repository to your desired folder:
 
     _cd PATH_
 
-    _git clone  https://github.com/The-Normal-One1/bookstore.git
+    _git clone https://github.com/The-Normal-One1/countries-info-metrics-webapp.git
 
 _cd Javascript-Group-Capstone_
 
@@ -181,7 +181,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/The-Normal-One1/bookstore/issues).
+Feel free to check the [issues page](https://github.com/The-Normal-One1/countries-info-metrics-webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
