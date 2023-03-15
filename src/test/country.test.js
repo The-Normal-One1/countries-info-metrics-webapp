@@ -1,6 +1,5 @@
 import { render } from '@testing-library/react';
 import React from 'react';
-// import renderer from 'react-test-renderer';
 import * as reactRedux from 'react-redux';
 import Home from '../mock/home';
 
