@@ -1,20 +1,19 @@
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-import { Route, Routes } from 'react-router';
-import HomePage from './components/homePage/homePage';
-import DetailPage from './components/detailPage/detailPage';
+import Detail from './components/detailPage/detail';
+import Home from './components/homePage/home';
 import NotMatch from './components/notMatch';
 
-function App() {
-  return (
+const App = () => (
+  <BrowserRouter>
     <div className="App">
       <Routes>
-        <Route path="/" element={<HomePage />} />
-
-        <Route path="/detailPage" element={<DetailPage />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/details/:id" element={<Detail />} />
         <Route path="*" element={<NotMatch />} />
       </Routes>
     </div>
-  );
-}
+  </BrowserRouter>
+);
 
 export default App;
