@@ -16,7 +16,7 @@ const Detail = () => {
             onClick={() => navigate(-1)}
           >
             <AiOutlineArrowLeft />
-            Go back
+            Go back to homePage
           </button>
         </div>
       </header>
