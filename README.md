@@ -1,70 +1,216 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📗 Table of Contents
 
-## Available Scripts
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-In the project directory, you can run:
+# 📖 Country Giude For All<a name="about-project"></a>
 
-### `npm start`
+> "Country-Guid" is an application will allow users search and get information on specific country/continent around the world.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Built With <a name="built-with"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- HTML
+- CSS
+- Javascript
+- React.js and Redux
 
-### `npm test`
+### Tech Stack <a name="tech-stack"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://reactjs.org/docs/create-a-new-react-app.html">React</a></li>
+  </ul>
+</details>
 
-### `npm run build`
+### Key Features <a name="key-features"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **This is a SPA.**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-### `npm run eject`
+- [Live Demo Link](https://the-normal-one1.github.io/bookstore/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Project Details
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Solo Project
+  - [Ermiyas Demsew](https://github.com/The-Normal-One1)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 Getting Started <a name="getting-started"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To get a local copy up and running follow these simple example steps.
 
-## Learn More
+## Clone Git Repository
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-Reach to following Github URL:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+https://github.com/The-Normal-One1/bookstore
 
-### Code Splitting
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-Copy the URL.
 
-### Analyzing the Bundle Size
+-In Visual Studio Code “Terminal” change the current working directory to the location where you want the cloned directory.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+-Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
-### Making a Progressive Web App
+```
+$ git clone {repository URL}
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Install Dependencies(with following Command)
 
-### Advanced Configuration
+- npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Build webpack <a name="setup"></a>
 
-### Deployment
+- run command
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+npm run build
+```
 
-### `npm run build` fails to minify
+## Start server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+npm start
+```
+
+### Prerequisites <a name="prerequisites"></a>
+
+In order to run this project you need:
+
+- [x] Basic Knowledge of **HTML**, **CSS**, & **JavaScript**.
+- [x] Basic knowledge of **ES6** syntax.
+- [x] Basic knowledge of **Git**, **GitHub** &**Gitflow**.
+- [x] Basic knowledge of **Linters**.
+- [x] Basic knowledge of **Webpack**.
+- [x] Basic knowledge of **VS Code** or any other code-editors.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+    _cd PATH_
+
+    _git clone  https://github.com/The-Normal-One1/bookstore.git
+
+_cd Javascript-Group-Capstone_
+
+_npm install_
+
+_npm run build_
+
+_npm start_
+
+### Install
+
+Install this project with:
+
+```sh
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm test
+```
+
+### Deployment <a name="triangular_flag_on_post-deployment"></a>
+
+You can deploy this project using:
+
+```sh
+  npm start
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Ermiyas Demsew**
+
+- GitHub: [@The-Normal-One1](https://github.com/The-Normal-One1)
+- Twitter: [@DemsewErmiyas](https://twitter.com/DemsewErmiyas)
+- LinkedIn: [@Ermiyas Demsew](https://www.linkedin.com/in/ermiyas-demsew-616b1b19a/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Implement additional pages**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/The-Normal-One1/bookstore/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Thanks to [Microverse](https://www.microverse.org/) for giving this opportunity to learn ...
+- Code Reviewers & Coding Partners.
+- Hat tip to anyone whose code was used.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
