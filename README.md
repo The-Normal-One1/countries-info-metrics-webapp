@@ -22,9 +22,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Country Giude For All<a name="about-project"></a>
+# 📖 Country Guide For All<a name="about-project"></a>
 
-> "Country-Guid" is an application will allow users search and get information on specific country/continent around the world.
+> "Country-Guide" is an application will allow users search and get information on specific country/continent around the world.
 
 ## 🛠 Built With <a name="built-with"></a>
 
